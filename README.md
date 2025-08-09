@@ -16,8 +16,7 @@ I aim to take part in projects where I can enhance my skills and gain new experi
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sedef-alkan-6a941a278/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/SedefAlkan)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sedef-alkan-6a941a278/)    
 📧 **Email:** alkannsedef@gmail.com  
 
 ---
