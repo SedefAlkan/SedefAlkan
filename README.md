@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Sedef Alkan 👋
 
-<!--
-**SedefAlkan/SedefAlkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **AI and Computer Vision Engineer**  
+I have focused on **real-time systems, computer vision, deep learning, and OCR** throughout my Computer Engineering education and internships.  
+Passionate about learning and integrating the latest technologies into practical projects.  
 
-Here are some ideas to get you started:
+💡 **Core Skills**  
+- 🖥️ Computer Vision • Image Processing • Object Detection • OCR  
+- 🤖 Machine Learning • Deep Learning (YOLOv8, 3D-CNN, ArcFace, DeepFace)  
+- ⚙️ Python, TensorFlow, PyTorch, OpenCV, Flask, RESTful API 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contact**  
+[LinkedIn](https://www.linkedin.com/in/sedef-alkan-6a941a278/)  • ✉️ alkannsedef@gmail.com
