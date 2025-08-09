@@ -22,7 +22,4 @@ I aim to take part in projects where I can enhance my skills and gain new experi
 
 ---
 
-## 📊 GitHub Stats  
-![Sedef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SedefAlkan&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SedefAlkan&layout=compact&theme=tokyonight)  
 
