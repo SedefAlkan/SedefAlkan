@@ -8,7 +8,7 @@ I aim to take part in projects where I can enhance my skills and gain new experi
 ---
 
 ## 💡 Core Competencies  
-- 🖥️ **Computer Vision & Image Processing:** Object Detection, Tracking, OCR, Image Enhancement  
+- 🖥️ **Computer Vision & Image Processing:** Object Detection, Classification Tracking, OCR, Image Enhancement  
 - 🤖 **AI, Machine Learning & Data Analysis:** Model Training & Optimization, YOLOv8, ArcFace, DeepFace, 3D-CNN, Data Visualization  
 - ⚙️ **Programming & Tools:** Python, TensorFlow, OpenCV, PyTorch, Flask, RESTful API  
 - 🗄️ **Databases:** PostgreSQL, MySQL, MongoDB  
